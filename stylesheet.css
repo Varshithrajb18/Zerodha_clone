@@ -19,7 +19,7 @@
 {
     height: 17px;
     width: 133px;
-    background-image: url(logo.svg);
+    background-image: url(images/logo.svg);
     background-size: cover;
     margin-right: 32%;
     margin-left: 10%;
@@ -47,7 +47,7 @@
 {
     width: 45%;
     height: 100%;
-    background-image: url(body_1.png);
+    background-image: url(images/body_1.png);
     background-size: cover;
 }
 .hero_b2
@@ -134,7 +134,7 @@ p {
 {
     height: 550px;
     width: 55%;
-    background-image: url(body_2.png);
+    background-image: url(images/body_2.png);
     background-size: cover;    
 }
 .press
@@ -147,6 +147,6 @@ p {
 {
     height: 40px;
     width: 800px;
-    background-image: url(press-logos.png);
+    background-image: url(images/press-logos.png);
     background-size: cover;
 }
